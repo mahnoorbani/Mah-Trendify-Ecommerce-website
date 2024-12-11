@@ -7,6 +7,7 @@ Mah-Trendify is a fully responsive ecommerce website, maximum compatiblities in 
 ## Demo
 
 ![Mah-Trendify Desktop Demo](./website-demo-image/desktop1.png "Desktop Demo")
+![Mah-Trendify Desktop Demo](./website-demo-image/desktop2.png "Desktop Demo")
 ![Mah-Trendify Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
